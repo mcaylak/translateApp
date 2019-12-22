@@ -1,0 +1,17 @@
+{
+  "en":{
+    "name":"English",
+    "nativeName":"English",
+    "code": "en"
+  },
+  "tr":{
+    "name":"Türkçe",
+    "nativeName":"Türkçe",
+    "code": "tr"
+  },
+  "ru":{
+    "name":"Russian",
+    "nativeName":"русский язык",
+    "code": "ru"
+  }
+}
