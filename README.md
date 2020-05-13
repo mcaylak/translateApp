@@ -1,6 +1,4 @@
 # translateApp
 
-This application is made by Emirhan KAYACIK And Muhammed Recep ÇAYLAK for Mobile Programming lesson.
-
-emirhankayacik@gmail.com
+This application is made by Muhammed Recep ÇAYLAK for Mobile Programming lesson. 
 m.recep.caylak@gmail.com
